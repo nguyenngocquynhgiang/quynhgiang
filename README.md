@@ -8,7 +8,7 @@ My name is Nguyen Ngoc Quynh Giang. I am an undergraduate in Mathematics and Com
 
 ![Giang's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenngocquynhgiang&hide=contribs,prs&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyenngocquynhgiang&repo=Classify-Song-Genres-from-Audio-Data.)](https://github.com/nguyenngocquynhgiang/Classify-Song-Genres-from-Audio-Data.)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyenngocquynhgiang&repo=GEMINI-AI-Web-App)](https://github.com/nguyenngocquynhgiang/GEMINI-AI-Web-App)
 
 
 
