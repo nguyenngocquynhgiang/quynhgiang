@@ -11,6 +11,6 @@ My name is Nguyen Ngoc Quynh Giang. I am an undergraduate in Mathematics and Com
 
 <a href="https://github.com/nguyenngocquynhgiang/Classify-Song-Genres-from-Audio-Data.">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quynhgiang&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quynhgiang&repo=QuickDraw&theme=radical" />
 </a>    
 
