@@ -1,5 +1,5 @@
 # quynhgiang
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+### WELCOME TO MY PAGE 
+My name is Nguyen Ngoc Quynh Giang. I am an undergraduate in Mathematics and Computer Science, majoring in Artificial Intelligence and Data Sciences. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Giang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
