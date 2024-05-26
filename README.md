@@ -8,8 +8,8 @@ My name is Nguyen Ngoc Quynh Giang. I am an undergraduate in Mathematics and Com
 
 ![Giang's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenngocquynhgiang&hide=contribs,prs&show_icons=true&theme=radical)
 
-<a href=" https://github.com/nguyenngocquynhgiang/Classify-Song-Genres-from-Audio-Data.">
+<a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=giangnguyenngocquynh&repo=QuickDraw&theme=radical" />
-</a> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+</a>    
 
